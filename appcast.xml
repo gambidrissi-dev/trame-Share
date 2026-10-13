@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 0.2.0</title>
+      <description><![CDATA[
+<h3>Vue 3D Metal (étape 7)</h3>
+<p>Moteur Metal à nous : murs extrudés, éclairage, arêtes, sol, anticrénelage ; orbite, zoom, décalage ; sélection au clic par image d'identifiants ; bascule plan ⇄ 3D à la touche Espace. 0,4 ms GPU par image pour 544 murs, contrôlé par --self-check ; tests du maillage, des matrices et de la sélection sur GPU ; test d'interface étendu.</p>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 20:22:42 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v0.2.0/Trame-0.2.0.zip"
+                 sparkle:edSignature="U+Hi1SkYWgCORWBpWNZPGUbPlzEyyrii3CnZnbKawaTenXsTbnCUmCb6sEG5tacBIrv9L8AGjiv3PxOvPj3RBQ=="
+                 length="1587947"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.0</title>
       <description><![CDATA[
 <h3>Outil Mur et interface épurée (étape 5)</h3>
