@@ -5,6 +5,22 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[
+<h3>Trame 1.0.0</h3>
+<p>Le MVP complet : on dessine une maison en plan, Trame construit la 3D, le plan hachuré et l'IFC.</p>
+<p>- Murs enchaînés au clic, accroches, 0°/90° et 45°, longueur au clavier, jonctions en L, T et croix. - Portes et fenêtres d'un clic, en plan ou sur la face d'un mur en 3D. - Dalles et toits (1, 2 ou 4 pans) au contour cliqué ou « sur les murs » ; les pignons montent sous le toit. - Étages (⌘↑, ⌘↓), l'étage du dessous en gris. - Cotes attachées aux murs, qui suivent leurs déplacements. - Feuille Matériaux (⇧⌘M) : hachures et couleurs. - Export IFC4 (⇧⌘E), vérifié par IfcOpenShell. - Nouvelle icône.</p>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 23:54:46 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v1.0.0/Trame-1.0.0.zip"
+                 sparkle:edSignature="flMDn1+WKy6lhHtYpV/Y3xT6g0SQPVy3Xve4VXO4FXsMLAWCAluP4ZT1akCtcpuJPCZwgeve6NAWz5CnRytnAg=="
+                 length="2623328"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.7.0</title>
       <description><![CDATA[
 <h3>Journal : matériaux, test d'interface passé</h3>
