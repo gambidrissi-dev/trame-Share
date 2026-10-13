@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 0.1.0</title>
+      <description><![CDATA[
+<h3>Outil Mur et interface épurée (étape 5)</h3>
+<p>Murs enchaînés au clic : accroches aux extrémités et milieux, calage à 0° et 90°, Maj pour 45°, longueur tapée, ⌫, Échap, fermeture sur le premier point ; aperçu fantôme, guide et étiquette de longueur. Barres flottantes (outils, réglages, état, étage), ⌘Z et ⇧⌘Z. Tests de la session sans fenêtre, et test d'interface aux vrais clics (make interface).</p>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 20:08:51 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v0.1.0/Trame-0.1.0.zip"
+                 sparkle:edSignature="ZVH/aPmzR5ME7wrb6grGHvq0Y6zJn5NDwbWqlrdPIOHpYw0V1LLi6h5UffxeXodcTgRFHA1nx6AddhT9p3DqDg=="
+                 length="1511878"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.1</title>
       <description><![CDATA[
 <h3>Plan : dépôts, Archicad, journal de l'étape 1</h3>
