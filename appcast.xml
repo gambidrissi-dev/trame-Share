@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 0.5.0</title>
+      <description><![CDATA[
+<h3>Journal : test d'interface des étages passé</h3>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 22:56:25 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v0.5.0/Trame-0.5.0.zip"
+                 sparkle:edSignature="AWwlXxAkGwgff9GaaePReG+FS24m6ZVU5OeYQX4dhg6xEO9x7Pu3HxtMOl+f9WqQDmB5nHTzcJm2W65bPVo5Dg=="
+                 length="1721267"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <description><![CDATA[
 <h3>Portes et fenêtres (étape 8)</h3>
