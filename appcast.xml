@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 0.6.0</title>
+      <description><![CDATA[
+<h3>Journal : toits, test d'interface passé</h3>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 23:13:56 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v0.6.0/Trame-0.6.0.zip"
+                 sparkle:edSignature="G6WTfrFBYmYgjDUZNXwI24K5KjOmZeT1/QboIOIC5EVGBoaiNvjJhN8K37HJEvMt2+HdKvF/U62GTnHpd1sSAw=="
+                 length="1761672"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <description><![CDATA[
 <h3>Journal : test d'interface des étages passé</h3>
