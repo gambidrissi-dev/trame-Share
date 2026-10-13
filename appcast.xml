@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Trame Updates</title>
+    <link>https://github.com/gambidrissi-dev/trame-Share</link>
+    <description>Mises à jour de Trame</description>
+    <item>
+      <title>Version 0.0.1</title>
+      <description><![CDATA[
+<h3>Plan : dépôts, Archicad, journal de l'étape 1</h3>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 19:21:07 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v0.0.1/Trame-0.0.1.zip"
+                 sparkle:edSignature="qmQ5jhszcQmvO5sIUwqm17Wn7tkNCt7f0ymhm/k566t/mOYX8ETt7c+kgLq5JrPffjpJYEX5dhVvjpXURS6LCA=="
+                 length="1188683"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
