@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 0.3.0</title>
+      <description><![CDATA[
+<h3>Portes et fenêtres (étape 8)</h3>
+<p>Pose d'un clic sur un mur, en plan ou sur sa face en 3D : aperçu qui glisse, cotes provisoires, refus motivés. Mur coupé en plan avec symboles, percé en 3D avec vantail ou vitrage ; ouvertures sélectionnables, modifiables, déplaçables le long du mur. Cadrage du plan gardé au retour de la 3D. Test d'interface sûr : il vérifie avant chaque événement que Trame est au premier plan, et respecte l'AZERTY.</p>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 21:24:12 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v0.3.0/Trame-0.3.0.zip"
+                 sparkle:edSignature="aGesla1x9L2mkjdUkP37gE/l7LmZh1onoP1D8bUMOWzQw00hpqNiMe94QQqn9nuMiOahtZh51i2lA2IT4QEUDg=="
+                 length="1639154"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <description><![CDATA[
 <h3>Vue 3D Metal (étape 7)</h3>
