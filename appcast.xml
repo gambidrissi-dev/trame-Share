@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 5.0.1</title>
+      <description><![CDATA[
+<h3>Nouvelle icône : un plan blanc sur la trame cobalt</h3>
+      ]]></description>
+      <pubDate>Wed, 14 Oct 2026 23:34:31 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>5.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v5.0.1/Trame-5.0.1.zip"
+                 sparkle:edSignature="B5Y6qDYvCx/vkweDFKmMr07jSAdRgrVdaxpb5CQ6PO2i9cfmGhYxgA84l5t9RTcuyDmabteEPrKwyFE5DzQHBg=="
+                 length="3644418"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.0.0</title>
       <description><![CDATA[
 <h3>Trame 5.0.0</h3>
