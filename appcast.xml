@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 4.0.0</title>
+      <description><![CDATA[
+<h3>Trame 4.0.0</h3>
+<p>Tout se règle.</p>
+<p>- Panneau latéral (⌥⌘0) : inspecteur de la sélection (plusieurs éléments à la fois), calques et combinaisons, étages (dupliquer, sous-sol, hauteur), liste de tous les éléments. - Affichage du plan (grille, hachures, couleurs, traits, ce qu'on montre, accroches) et de la 3D (matériaux, maquette blanche, filaire, rayons X ; ombres, occlusion, axonométrie ; vues toutes faites). - Soleil : lieu, date, heure, nord ; flèche du nord en plan. - Rendu photoréaliste (⌥⌘R) : lancer de rayons sur le GPU du Mac, jusqu'en 4K ; aspects des matériaux (mat, satiné, brillant, métal). - Meubles : 45 modèles (rangements, cuisine linéaire, canapé d'angle, bureau…), couleurs par partie, mes modèles ; objets sur mesure composés par Claude depuis une image et affinés en dialogue. - Réglages de Trame (⌘,) : cotes en m, cm ou mm, barre d'outils à la carte.</p>
+<p>Les fichiers enregistrés par la 4.0 ne s'ouvrent plus dans la 3.1 : mettez Trame à jour sur tous vos Mac.</p>
+      ]]></description>
+      <pubDate>Wed, 14 Oct 2026 20:11:22 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v4.0.0/Trame-4.0.0.zip"
+                 sparkle:edSignature="wBQxsBqHbXzPxFkhApJjMUDdD/ojg6reITYYP+r3uOeBfxURZ6yMw9pZAs7HR59ONA0xizL5mIWFGcNk62OyCQ=="
+                 length="3675510"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.1.0</title>
       <description><![CDATA[
 <h3>Trame 3.1.0</h3>
