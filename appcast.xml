@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 3.0.0</title>
+      <description><![CDATA[
+<h3>Trame 3.0.0</h3>
+<p>Partir de l'existant et remplir le dossier de permis.</p>
+<p>- Pièces : détectées d'un clic dans les murs, nom et surface en plan, IfcSpace. - Surface habitable et surface de plancher par niveau, en tableau sur les planches. - Nomenclature des menuiseries : repères P1, F1, FT1… en plan et tableau. - Fond de plan : image ou PDF recalé par deux points ; DXF du géomètre en fond, accrochable. - Import IFC : étages, murs, portes et fenêtres, dalles d'un IFC4 ou IFC2x3. - Plan de masse : parcelle, emprise au sol, distances aux limites cotées. - Garde-corps autour des trémies ; l'arrivée de l'escalier est dessinée à l'étage. - Image 3D en 4K avec ombres et occlusion ambiante (Fichier › Exporter une image 3D).</p>
+<p>Les fichiers enregistrés par la 3.0 ne s'ouvrent plus dans la 2.0 : mettez Trame à jour sur tous vos Mac.</p>
+      ]]></description>
+      <pubDate>Wed, 14 Oct 2026 07:14:09 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v3.0.0/Trame-3.0.0.zip"
+                 sparkle:edSignature="G3e7eo/VqNAiI26p780rCxflebBQs0pjY+8w2lD+DUyo9HrQCx6ZeBrFf5BdMJUcMjaAUiK1uUitC+IbAo+cAg=="
+                 length="3294268"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <description><![CDATA[
 <h3>Trame 1.0.0</h3>
