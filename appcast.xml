@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 3.1.0</title>
+      <description><![CDATA[
+<h3>Trame 3.1.0</h3>
+<p>Les meubles : paramétriques, depuis une image, depuis des photos.</p>
+<p>- Canapé, table, chaise, lit réglables : méridienne, accoudoirs, assise, table ronde, nombre de chaises, tête de lit ; couleur par objet. - Tout objet se règle en largeur, profondeur et hauteur. - Fichier › Nouvel objet (⌥⇧⌘O) : - depuis une image : Claude reconnaît le meuble et le règle (clé d'API) ; - depuis des photos : la photogrammétrie d'Apple en fait un volume texturé ; - depuis un fichier 3D de fabricant (USDZ, OBJ, STL, PLY).</p>
+<p>Les fichiers enregistrés par la 3.1 ne s'ouvrent plus dans la 3.0 : mettez Trame à jour sur tous vos Mac.</p>
+      ]]></description>
+      <pubDate>Wed, 14 Oct 2026 19:06:37 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v3.1.0/Trame-3.1.0.zip"
+                 sparkle:edSignature="4jj8f9mt/aFHsJGSu5E3o8cBxNn+oCW8RYAgwMAFyA1VaYZT5XaHRmyC8ZgnEN733tKobsIdMkmObhMfkpByBw=="
+                 length="3395903"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.0.0</title>
       <description><![CDATA[
 <h3>Trame 3.0.0</h3>
