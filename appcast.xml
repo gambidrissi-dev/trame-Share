@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 5.0.0</title>
+      <description><![CDATA[
+<h3>Trame 5.0.0</h3>
+<p>Des images et des documents de pro.</p>
+<p>- Matières générées à l'échelle : brique, bois, enduit, carrelage, parquet, tuile, pierre, béton ; dans la 3D et le rendu. - Lumières (ampoules, spots, rubans) et scène de nuit ; entourage (arbres, haies, personnages, voitures) ; ciel nuageux. - Vue 360 et visite à hauteur d'œil (⌥⌘V). - Plumes : couleur et épaisseur des traits ; grille de fond et aimantation ; saisie en m, cm ou mm. - Déplacer, copier, tourner, symétriser. - Escaliers réglables : marches, giron, palier, limons, rampe. - Une, deux ou quatre vues, vignette flottante ; boîte de coupe. - Terrain modifiable au plan, plateforme et talus. - Planches : textes, cotes de niveau, cartouche de l'agence, rendu. - Imports : l'IFC en entier, les DXF avec blocs et textes.</p>
+<p>Les fichiers enregistrés par la 5.0 ne s'ouvrent plus dans la 4.0 : mettez Trame à jour sur tous vos Mac.</p>
+      ]]></description>
+      <pubDate>Wed, 14 Oct 2026 23:22:50 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v5.0.0/Trame-5.0.0.zip"
+                 sparkle:edSignature="/1Uj5RnKdmK4UYlDhlFnCywnkwjMd9c/JldmlaR8ycU9kuH30ma6rwB0rNwuwdd6I8Kpzn3n96kmIPiFtUpIDg=="
+                 length="3945017"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 4.0.0</title>
       <description><![CDATA[
 <h3>Trame 4.0.0</h3>
