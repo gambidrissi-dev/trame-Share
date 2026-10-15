@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 7.1.0</title>
+      <description><![CDATA[
+<h3>Trame 7.1.0 : barre rapide de la sélection et boîte des réglages (⌘P)</h3>
+      ]]></description>
+      <pubDate>Thu, 15 Oct 2026 18:38:25 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>7.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v7.1.0/Trame-7.1.0.zip"
+                 sparkle:edSignature="aLOqnbbGY1DamboWAtImZQq18/Nb8A8zEXUtPUQ/WxT8wwlItJceLGVXYxhdAI5+bxjZIMQMAD0KyuVZVMNXCg=="
+                 length="4432268"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.0.0</title>
       <description><![CDATA[
 <h3>Trame 7.0.0</h3>
