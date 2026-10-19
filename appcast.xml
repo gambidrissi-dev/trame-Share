@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 7.3.0</title>
+      <description><![CDATA[
+<h3>README : la 7.3 complète (8.6, 8.7.c, 8.8)</h3>
+      ]]></description>
+      <pubDate>Mon, 19 Oct 2026 23:04:44 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>7.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v7.3.0/Trame-7.3.0.zip"
+                 sparkle:edSignature="MKfWBRPpFc8A2dlNis8c9bMQSYSmblAqDYFVLKpS3APbcPKMTYkS5UjpyyuJ1tcaJu/eh01Tw77YcxiJqixMCQ=="
+                 length="4965252"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.2.0</title>
       <description><![CDATA[
 <h3>Ma bibliothèque de matériaux, le fichier .trame-materiau, le poids des images (étape 8.3.d)</h3>
