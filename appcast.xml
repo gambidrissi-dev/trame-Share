@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 8.0.0</title>
+      <description><![CDATA[
+<h3>Test d'interface de la V8 : bibliothèque hors ligne, rendu en arrière-plan annulé (étape 8.9)</h3>
+      ]]></description>
+      <pubDate>Tue, 20 Oct 2026 18:05:26 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>8.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v8.0.0/Trame-8.0.0.zip"
+                 sparkle:edSignature="94NH/Cviy9yfbU+ekcTFumhKihROwFLXKfuSC8vL3rNeCvX30Oe4SpKNA1qxy3IAnFvG5H+PvpqII+KgnX52AQ=="
+                 length="5098264"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.4.0</title>
       <description><![CDATA[
 <h3>Rang de vigne ; le mas a ses vignes (étape 8.10)</h3>
