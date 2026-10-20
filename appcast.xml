@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 7.4.0</title>
+      <description><![CDATA[
+<h3>Rang de vigne ; le mas a ses vignes (étape 8.10)</h3>
+      ]]></description>
+      <pubDate>Tue, 20 Oct 2026 07:08:20 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>7.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v7.4.0/Trame-7.4.0.zip"
+                 sparkle:edSignature="/CXIC7vb+AgLM4WbJYVj8OZVrSWYKf+j66pt0aupMVzbNni8hKuRFXTK+xfep/R0Mh2KYipAb3Sicjt03dqKAg=="
+                 length="5038381"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.3.0</title>
       <description><![CDATA[
 <h3>README : la 7.3 complète (8.6, 8.7.c, 8.8)</h3>
