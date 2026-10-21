@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 11.3.0</title>
+      <description><![CDATA[
+<h3>README 11.3 : où se coupe l'accueil</h3>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 19:40:13 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>11.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v11.3.0/Trame-11.3.0.zip"
+                 sparkle:edSignature="exyZpgj6zonwmf9X05XhqRk+bzINg3AUg64BPB2+lT1aQMm+UuEEXkKQEUgkz+3SJ4uo0A28/K3ZkcsEaRtiCA=="
+                 length="7570175"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 11.2.0</title>
       <description><![CDATA[
 <h3>Trame 11.2.0 : couleurs et finitions</h3>
