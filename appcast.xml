@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 11.0.0</title>
+      <description><![CDATA[
+<h3>Trame 11.0.0 : la modélisation d'un Archicad</h3>
+<p>- Profils balayés (corniches, IPE, lamellé-collé, les vôtres) le long des murs, poutres et extrusions. - Murs-rideaux : trame, montants, traverses, panneaux, portes et ouvrants ; IfcCurtainWall. - Formes libres : pousser-tirer, voûtes, dômes, surfaces réglées, opérations booléennes. - Toits par arête : pente, débord, égout ou pignon par côté ; Mansart ; squelette pondéré. - Escaliers balancés et hélicoïdaux, confort en direct (Blondel, giron, collet, échappée) ; garde-corps par règles ; IfcStair avec IfcStairFlight. - Modules liés : posés tournés ou en miroir, modifiés une fois, changés partout ; modules externes ; nomenclature. - Réseaux : gaines, eau, évacuation à pente, descentes, chemins de câbles ; raccords automatiques ; conflits avec la structure ; équipements. - Scripts JavaScript : console, bibliothèque, un ⌘Z par exécution, l'assistant écrit un script. - Gros projets : 53 000 éléments ouverts en 0,6 s, plan à 47 images/s, 3D à 286 ; IFC façon Archicad relu à 100 %. - Schéma 12 ; les fichiers de la 10.0 s'ouvrent.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 14:20:03 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>11.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v11.0.0/Trame-11.0.0.zip"
+                 sparkle:edSignature="uNr25/GZJwXEqVUfF2qXMthAdd/Gryy/vCAng3zXtP+jqPa0TezNIz9eaAofXOtHEUAm0xBIwdCW3oehYcffBw=="
+                 length="7288907"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.0.0</title>
       <description><![CDATA[
 <h3>Test d'interface de la V8 : bibliothèque hors ligne, rendu en arrière-plan annulé (étape 8.9)</h3>
