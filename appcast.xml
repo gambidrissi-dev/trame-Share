@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 11.1.0</title>
+      <description><![CDATA[
+<h3>Trame 11.1.0 : Claude pilote Trame par MCP, avec l'abonnement Claude</h3>
+<p>- Réglages › Assistant › « Laisser Claude piloter Trame » : un serveur MCP local (127.0.0.1:47321). - Claude Desktop ou Claude Code dessinent dans la fenêtre ouverte : murs, portes, fenêtres, dalles, toits, étages, escaliers, aménagement, objets, scripts. - Chaque action s'annule d'un ⌘Z ; le serveur n'écoute que sur le Mac.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 15:05:56 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>11.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v11.1.0/Trame-11.1.0.zip"
+                 sparkle:edSignature="t9bMqzRIQ+2iRlMu63K9Kl1ICLm8EFLYxj34N6gMQl0GoBCn8ORh+lVyQm/5nEmLc7GbbG6XNy4WHJaCUsbDBg=="
+                 length="7307999"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 11.0.0</title>
       <description><![CDATA[
 <h3>Trame 11.0.0 : la modélisation d'un Archicad</h3>
