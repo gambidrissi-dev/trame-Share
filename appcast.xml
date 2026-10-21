@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 11.3.1</title>
+      <description><![CDATA[
+<h3>Espace Objet : la main pour déplacer la vue, l'assistant (et Claude par MCP) crée et modifie les objets</h3>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 20:18:30 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>11.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v11.3.1/Trame-11.3.1.zip"
+                 sparkle:edSignature="UjxRtmCEamdCndsp/pDr3KuIN1zUI1mCuZ8q9hvAsQrPwgl3OlVC9RXhkUiYGYNHIhf5KFqwpgvqiHj0fKOFDA=="
+                 length="7600313"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 11.3.0</title>
       <description><![CDATA[
 <h3>README 11.3 : où se coupe l'accueil</h3>
