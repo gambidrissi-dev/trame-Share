@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 11.2.0</title>
+      <description><![CDATA[
+<h3>Trame 11.2.0 : couleurs et finitions</h3>
+<p>- Teintes : le nuancier RAL et toute couleur sur le matériau d'un élément ou d'une face (une variante du matériau, créée une fois). - Menuiseries : un cadre en 3D ; matériau et teinte du cadre et du vantail de chaque porte et fenêtre, gardés par le type. - Scripts et Claude (MCP) : changerMateriau, habiller, faces, finition ; materiaux, dalles et toits lisibles.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 16:30:06 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>11.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v11.2.0/Trame-11.2.0.zip"
+                 sparkle:edSignature="rlXdFFUoSNYxsuVow2wsZ/s4VVdOnwul8OFQTmn07Z852UC16ripb77aL++Q43FoVohC1s7Ku+ATvG92ahyCDA=="
+                 length="7354846"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 11.1.0</title>
       <description><![CDATA[
 <h3>Trame 11.1.0 : Claude pilote Trame par MCP, avec l'abonnement Claude</h3>
