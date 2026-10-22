@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.1.0</title>
+      <description><![CDATA[
+<h3>Trame 13.1.0 : la CAO précise</h3>
+<p>Notes de version - Objet précis (Espace Objet › Nouvel objet précis) : esquisses contraintes et cotées (lignes, rectangles, cercles, arcs, splines, points, construction ; coïncident, horizontal, vertical, parallèle, perpendiculaire, tangent, égal, symétrique, milieu, fixe ; longueur, distance, rayon, diamètre, angle), un solveur qui montre ce qui peut encore bouger et refuse une contrainte en trop ou impossible. - Fonctions : extrusion, révolution, perçage (simple, lamé, fraisé, taraudé), congé et chanfrein (coins sphériques), réseau, circulaire, symétrie, booléens ; un historique qu'on modifie, éteint, réordonne, avec une barre de retour. - Une cote nommée devient un paramètre de l'objet, réglable sur chaque exemplaire posé ; une cote peut être une formule. Les congés et les esquisses posées sur une face suivent quand une cote change. - Mode Libre / Précis ; une esquisse s'exporte en DXF ; l'assistant et Claude Desktop dessinent un objet précis (50 outils). - Moteur maison, sans dépendance. Les fichiers de la 13.0 s'ouvrent tels quels (schéma 13).</p>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 17:35:51 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>13.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v13.1.0/Trame-13.1.0.zip"
+                 sparkle:edSignature="xlPlxnB8vFi6mUQcgerwx44be6IQcqXUacBJ45ZLEJ4OvsClX7DG2OyFzxHWLm0evA8ZoH/xRsJ2cOugDO3QAA=="
+                 length="9162222"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 11.3.1</title>
       <description><![CDATA[
 <h3>Espace Objet : la main pour déplacer la vue, l'assistant (et Claude par MCP) crée et modifie les objets</h3>
