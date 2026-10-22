@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.2.0</title>
+      <description><![CDATA[
+<h3>Trame 13.2.0 : une interface Mac soignée</h3>
+<p>Notes de version - Une vraie fenêtre Mac : barre d'outils unifiée avec les trois espaces, Plan / 3D, la disposition des vues, Rendu, Partager et l'inspecteur ; l'élément ouvert en sous-titre. - Une barre d'état en bas : l'aide de l'outil et l'état de la vue. Plus aucune pastille posée sur le dessin. - Architecture : la palette d'outils verticale à gauche du plan, en groupes, nom et raccourci au survol ; la barre d'options de l'outil posée sous la barre d'outils. - Inspecteur : quatre onglets nommés (Sélection, Affichage, Projet, Historique), des sections repliables, des libellés alignés qui ne se coupent plus. - Objet : palette du modeleur en groupes, modes et symétrie dans la barre d'options, vues cotées sous leur propre en-tête. - Objet précis : outils de l'esquisse et Terminer dans la barre d'options, vraies lignes de cote. - Matériau et accueil : barre d'options, cartes et modèles en vignettes. - Les mêmes réglages et raccourcis qu'avant ; les fichiers s'ouvrent tels quels.</p>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 22:19:16 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>13.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v13.2.0/Trame-13.2.0.zip"
+                 sparkle:edSignature="I+ppPEnIgA0ctmNW5jH0TUjxgZpu/OWV5+Tr2OBh8W706K5SJCNIV/Gas0niBhjr6mIiwdq1Z5XYjk3EpZjGAQ=="
+                 length="9201984"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.1.0</title>
       <description><![CDATA[
 <h3>Trame 13.1.0 : la CAO précise</h3>
